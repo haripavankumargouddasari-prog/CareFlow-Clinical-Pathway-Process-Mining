@@ -1,0 +1,41 @@
+No.
+
+Commit message
+
+Files
+
+1
+
+Create synthetic patient event data generator
+
+src/generate_events.py
+
+2
+
+Generate synthetic hospital patient event logs
+
+data/patient_events.csv
+
+3
+
+Implement process mining using PM4Py
+
+src/process_mining.py
+
+4
+
+Generate initial patient workflow process model
+
+outputs/patient_process_model.png
+
+5
+
+Add patient event log data validation
+
+Validation code
+
+6
+
+Document Member 2 process mining implementation
+
+README.md
