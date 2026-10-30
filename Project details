@@ -1,0 +1,19 @@
+# 1. Project setup
+git add requirements.txt
+git commit -m "chore: add Python dependencies (pandas, pm4py, matplotlib)"
+
+# 2. Synthetic data generator
+git add src/generate_events.py
+git commit -m "feat: add synthetic ER patient event log generator"
+
+# 3. Sample data for Member 1
+git add data/sample_patient_events.csv data/sample_sequence_example.csv
+git commit -m "data: add synthetic sample event log and example sequence"
+
+# 4. Process mining
+git add src/process_mining.py
+git commit -m "feat: add PM4Py process discovery and Petri-net export"
+
+# 5. Docs
+git add README.md
+git commit -m "docs: add Member 2 README with CSV schema and run steps"
