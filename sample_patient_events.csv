@@ -1,0 +1,189 @@
+Case_ID,Activity_Name,Timestamp,Department
+ER00001,Registration,2026-10-20 10:00:00,Admissions
+ER00001,Triage,2026-10-20 10:06:00,Emergency
+ER00001,Doctor Consultation,2026-10-20 10:17:00,Emergency
+ER00001,Lab Test,2026-10-20 10:34:00,Laboratory
+ER00001,Treatment,2026-10-20 10:47:00,Emergency
+ER00001,Discharge,2026-10-20 10:50:00,Admissions
+ER00002,Registration,2026-10-20 10:07:00,Admissions
+ER00002,Triage,2026-10-20 10:09:00,Emergency
+ER00002,Doctor Consultation,2026-10-20 10:17:00,Emergency
+ER00002,Treatment,2026-10-20 10:28:00,Emergency
+ER00002,Discharge,2026-10-20 10:38:00,Admissions
+ER00003,Registration,2026-10-20 10:14:00,Admissions
+ER00003,Triage,2026-10-20 10:18:00,Emergency
+ER00003,Doctor Consultation,2026-10-20 10:33:00,Emergency
+ER00003,Treatment,2026-10-20 10:48:00,Emergency
+ER00003,Discharge,2026-10-20 10:58:00,Admissions
+ER00004,Registration,2026-10-20 10:21:00,Admissions
+ER00004,Triage,2026-10-20 10:23:00,Emergency
+ER00004,Doctor Consultation,2026-10-20 10:30:00,Emergency
+ER00004,X-Ray,2026-10-20 10:49:00,Radiology
+ER00004,Treatment,2026-10-20 11:04:00,Emergency
+ER00004,Discharge,2026-10-20 11:07:00,Admissions
+ER00005,Registration,2026-10-20 10:28:00,Admissions
+ER00005,Triage,2026-10-20 10:32:00,Emergency
+ER00005,Doctor Consultation,2026-10-20 10:43:00,Emergency
+ER00005,X-Ray,2026-10-20 11:09:00,Radiology
+ER00005,Lab Test,2026-10-20 11:42:00,Laboratory
+ER00005,Treatment,2026-10-20 12:00:00,Emergency
+ER00005,Discharge,2026-10-20 12:10:00,Admissions
+ER00006,Registration,2026-10-20 10:35:00,Admissions
+ER00006,Triage,2026-10-20 10:39:00,Emergency
+ER00006,Doctor Consultation,2026-10-20 10:44:00,Emergency
+ER00006,X-Ray,2026-10-20 11:01:00,Radiology
+ER00006,Treatment,2026-10-20 11:34:00,Emergency
+ER00006,Discharge,2026-10-20 11:43:00,Admissions
+ER00007,Registration,2026-10-20 10:42:00,Admissions
+ER00007,Triage,2026-10-20 10:46:00,Emergency
+ER00007,Doctor Consultation,2026-10-20 11:00:00,Emergency
+ER00007,Lab Test,2026-10-20 11:11:00,Laboratory
+ER00007,Treatment,2026-10-20 11:22:00,Emergency
+ER00007,Discharge,2026-10-20 11:27:00,Admissions
+ER00008,Registration,2026-10-20 10:49:00,Admissions
+ER00008,Triage,2026-10-20 10:55:00,Emergency
+ER00008,Doctor Consultation,2026-10-20 11:05:00,Emergency
+ER00008,X-Ray,2026-10-20 11:23:00,Radiology
+ER00008,Treatment,2026-10-20 11:34:00,Emergency
+ER00008,Discharge,2026-10-20 11:44:00,Admissions
+ER00009,Registration,2026-10-20 10:56:00,Admissions
+ER00009,Triage,2026-10-20 11:02:00,Emergency
+ER00009,Doctor Consultation,2026-10-20 11:09:00,Emergency
+ER00009,X-Ray,2026-10-20 11:34:00,Radiology
+ER00009,Triage,2026-10-20 11:49:00,Emergency
+ER00009,Doctor Consultation,2026-10-20 11:53:00,Emergency
+ER00009,Treatment,2026-10-20 12:07:00,Emergency
+ER00009,Discharge,2026-10-20 12:13:00,Admissions
+ER00010,Registration,2026-10-20 11:03:00,Admissions
+ER00010,Triage,2026-10-20 11:07:00,Emergency
+ER00010,Doctor Consultation,2026-10-20 11:12:00,Emergency
+ER00010,X-Ray,2026-10-20 11:33:00,Radiology
+ER00010,Lab Test,2026-10-20 11:45:00,Laboratory
+ER00010,Treatment,2026-10-20 11:51:00,Emergency
+ER00010,Discharge,2026-10-20 11:56:00,Admissions
+ER00011,Registration,2026-10-20 11:10:00,Admissions
+ER00011,Triage,2026-10-20 11:14:00,Emergency
+ER00011,Doctor Consultation,2026-10-20 11:23:00,Emergency
+ER00011,X-Ray,2026-10-20 11:49:00,Radiology
+ER00011,Treatment,2026-10-20 11:54:00,Emergency
+ER00011,Discharge,2026-10-20 11:58:00,Admissions
+ER00012,Registration,2026-10-20 11:17:00,Admissions
+ER00012,Triage,2026-10-20 11:22:00,Emergency
+ER00012,Doctor Consultation,2026-10-20 11:34:00,Emergency
+ER00012,Lab Test,2026-10-20 11:52:00,Laboratory
+ER00012,Treatment,2026-10-20 12:01:00,Emergency
+ER00012,Discharge,2026-10-20 12:04:00,Admissions
+ER00013,Registration,2026-10-20 11:24:00,Admissions
+ER00013,Triage,2026-10-20 11:27:00,Emergency
+ER00013,Doctor Consultation,2026-10-20 11:32:00,Emergency
+ER00013,X-Ray,2026-10-20 12:00:00,Radiology
+ER00013,Lab Test,2026-10-20 12:35:00,Laboratory
+ER00013,Treatment,2026-10-20 12:42:00,Emergency
+ER00013,Discharge,2026-10-20 12:48:00,Admissions
+ER00014,Registration,2026-10-20 11:31:00,Admissions
+ER00014,Triage,2026-10-20 11:35:00,Emergency
+ER00014,Doctor Consultation,2026-10-20 11:50:00,Emergency
+ER00014,X-Ray,2026-10-20 12:08:00,Radiology
+ER00014,Lab Test,2026-10-20 12:36:00,Laboratory
+ER00014,Treatment,2026-10-20 12:49:00,Emergency
+ER00014,Discharge,2026-10-20 12:53:00,Admissions
+ER00015,Registration,2026-10-20 11:38:00,Admissions
+ER00015,Triage,2026-10-20 11:42:00,Emergency
+ER00015,Doctor Consultation,2026-10-20 11:47:00,Emergency
+ER00015,X-Ray,2026-10-20 12:19:00,Radiology
+ER00015,Treatment,2026-10-20 12:31:00,Emergency
+ER00015,Discharge,2026-10-20 12:40:00,Admissions
+ER00016,Registration,2026-10-20 11:45:00,Admissions
+ER00016,Triage,2026-10-20 11:47:00,Emergency
+ER00016,Doctor Consultation,2026-10-20 11:59:00,Emergency
+ER00016,X-Ray,2026-10-20 12:22:00,Radiology
+ER00016,Triage,2026-10-20 12:53:00,Emergency
+ER00016,Doctor Consultation,2026-10-20 13:01:00,Emergency
+ER00016,Lab Test,2026-10-20 13:22:00,Laboratory
+ER00016,Treatment,2026-10-20 13:40:00,Emergency
+ER00016,Discharge,2026-10-20 13:42:00,Admissions
+ER00017,Registration,2026-10-20 11:52:00,Admissions
+ER00017,Triage,2026-10-20 11:56:00,Emergency
+ER00017,Doctor Consultation,2026-10-20 12:10:00,Emergency
+ER00017,Treatment,2026-10-20 12:17:00,Emergency
+ER00017,Discharge,2026-10-20 12:24:00,Admissions
+ER00018,Registration,2026-10-20 11:59:00,Admissions
+ER00018,Triage,2026-10-20 12:03:00,Emergency
+ER00018,Doctor Consultation,2026-10-20 12:10:00,Emergency
+ER00018,X-Ray,2026-10-20 12:34:00,Radiology
+ER00018,Treatment,2026-10-20 12:53:00,Emergency
+ER00018,Discharge,2026-10-20 13:03:00,Admissions
+ER00019,Registration,2026-10-20 12:06:00,Admissions
+ER00019,Triage,2026-10-20 12:08:00,Emergency
+ER00019,Doctor Consultation,2026-10-20 12:16:00,Emergency
+ER00019,Treatment,2026-10-20 12:30:00,Emergency
+ER00019,Discharge,2026-10-20 12:34:00,Admissions
+ER00020,Registration,2026-10-20 12:13:00,Admissions
+ER00020,Triage,2026-10-20 12:18:00,Emergency
+ER00020,Doctor Consultation,2026-10-20 12:30:00,Emergency
+ER00020,Lab Test,2026-10-20 12:48:00,Laboratory
+ER00020,Treatment,2026-10-20 13:08:00,Emergency
+ER00020,Discharge,2026-10-20 13:17:00,Admissions
+ER00021,Registration,2026-10-20 12:20:00,Admissions
+ER00021,Triage,2026-10-20 12:22:00,Emergency
+ER00021,Doctor Consultation,2026-10-20 12:31:00,Emergency
+ER00021,X-Ray,2026-10-20 12:45:00,Radiology
+ER00021,Treatment,2026-10-20 13:16:00,Emergency
+ER00021,Discharge,2026-10-20 13:23:00,Admissions
+ER00022,Registration,2026-10-20 12:27:00,Admissions
+ER00022,Triage,2026-10-20 12:30:00,Emergency
+ER00022,Doctor Consultation,2026-10-20 12:35:00,Emergency
+ER00022,X-Ray,2026-10-20 12:49:00,Radiology
+ER00022,Triage,2026-10-20 12:54:00,Emergency
+ER00022,Doctor Consultation,2026-10-20 13:01:00,Emergency
+ER00022,Lab Test,2026-10-20 13:23:00,Laboratory
+ER00022,Treatment,2026-10-20 13:31:00,Emergency
+ER00022,Discharge,2026-10-20 13:33:00,Admissions
+ER00023,Registration,2026-10-20 12:34:00,Admissions
+ER00023,Triage,2026-10-20 12:39:00,Emergency
+ER00023,Doctor Consultation,2026-10-20 12:52:00,Emergency
+ER00023,Lab Test,2026-10-20 13:05:00,Laboratory
+ER00023,Treatment,2026-10-20 13:13:00,Emergency
+ER00023,Discharge,2026-10-20 13:21:00,Admissions
+ER00024,Registration,2026-10-20 12:41:00,Admissions
+ER00024,Triage,2026-10-20 12:43:00,Emergency
+ER00024,Doctor Consultation,2026-10-20 12:56:00,Emergency
+ER00024,X-Ray,2026-10-20 13:14:00,Radiology
+ER00024,Treatment,2026-10-20 13:27:00,Emergency
+ER00024,Discharge,2026-10-20 13:35:00,Admissions
+ER00025,Registration,2026-10-20 12:48:00,Admissions
+ER00025,Triage,2026-10-20 12:53:00,Emergency
+ER00025,Doctor Consultation,2026-10-20 12:58:00,Emergency
+ER00025,X-Ray,2026-10-20 13:26:00,Radiology
+ER00025,Treatment,2026-10-20 13:33:00,Emergency
+ER00025,Discharge,2026-10-20 13:35:00,Admissions
+ER00026,Registration,2026-10-20 12:55:00,Admissions
+ER00026,Triage,2026-10-20 12:59:00,Emergency
+ER00026,Doctor Consultation,2026-10-20 13:09:00,Emergency
+ER00026,X-Ray,2026-10-20 13:28:00,Radiology
+ER00026,Treatment,2026-10-20 13:50:00,Emergency
+ER00026,Discharge,2026-10-20 13:56:00,Admissions
+ER00027,Registration,2026-10-20 13:02:00,Admissions
+ER00027,Triage,2026-10-20 13:07:00,Emergency
+ER00027,Doctor Consultation,2026-10-20 13:13:00,Emergency
+ER00027,X-Ray,2026-10-20 13:40:00,Radiology
+ER00027,Treatment,2026-10-20 13:54:00,Emergency
+ER00027,Discharge,2026-10-20 13:58:00,Admissions
+ER00028,Registration,2026-10-20 13:09:00,Admissions
+ER00028,Triage,2026-10-20 13:12:00,Emergency
+ER00028,Doctor Consultation,2026-10-20 13:25:00,Emergency
+ER00028,X-Ray,2026-10-20 13:53:00,Radiology
+ER00028,Treatment,2026-10-20 14:00:00,Emergency
+ER00028,Discharge,2026-10-20 14:08:00,Admissions
+ER00029,Registration,2026-10-20 13:16:00,Admissions
+ER00029,Triage,2026-10-20 13:22:00,Emergency
+ER00029,Doctor Consultation,2026-10-20 13:36:00,Emergency
+ER00029,X-Ray,2026-10-20 13:52:00,Radiology
+ER00029,Treatment,2026-10-20 14:02:00,Emergency
+ER00029,Discharge,2026-10-20 14:11:00,Admissions
+ER00030,Registration,2026-10-20 13:23:00,Admissions
+ER00030,Triage,2026-10-20 13:27:00,Emergency
+ER00030,Doctor Consultation,2026-10-20 13:38:00,Emergency
+ER00030,X-Ray,2026-10-20 13:54:00,Radiology
+ER00030,Treatment,2026-10-20 14:27:00,Emergency
+ER00030,Discharge,2026-10-20 14:35:00,Admissions
