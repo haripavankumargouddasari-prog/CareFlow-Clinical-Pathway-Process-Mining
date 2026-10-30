@@ -1,0 +1,13 @@
+CareFlow/
+│
+├── src/
+│   ├── generate_events.py
+│   └── process_mining.py
+│
+├── data/
+│   └── patient_events.csv
+│
+├── outputs/
+│   └── patient_process_model.png
+│
+└── README.md
