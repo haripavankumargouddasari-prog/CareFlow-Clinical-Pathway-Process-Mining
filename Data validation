@@ -1,0 +1,4 @@
+feat: add patient event log validation
+Validate patient IDs.
+Check timestamps.
+Validate event sequences.
