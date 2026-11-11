@@ -1,0 +1,3 @@
+git add src/process_mining.py outputs/
+git commit -m "feat: complete patient process mining analysis"
+git push origin main
